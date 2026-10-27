@@ -12,7 +12,11 @@
       "dashboard.mysteriumvpn.com": [
         "unblocked-dashboard.mysteriumvpn.com",
         "app-dashboard.mysterium.network"
-      ]
+      ],
+      "api.mysteriumvpn.com": [
+        "unblocked-api.mysteriumvpn.com",
+        "api.mysterium.network"
+      ],
     }
   },
   "signatures": []
