@@ -1,0 +1,1 @@
+# static-resources-hub.github.io
