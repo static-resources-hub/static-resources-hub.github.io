@@ -1,8 +1,8 @@
 {
   "signed": {
     "schema_version": 1,
-    "version": 2,
-    "issued_at": "2026-11-16T00:00:00Z",
+    "version": 3,
+    "issued_at": "2026-11-19T00:00:00Z",
     "expires_at": "2027-03-01T00:00:00Z",
     "mappings": {
       "app.mysteriumvpn.com": [
@@ -16,6 +16,12 @@
       "api.mysteriumvpn.com": [
         "unblocked-api.mysteriumvpn.com",
         "api.mysterium.network"
+      ],
+      "app.test.mysteriumvpn.com": [
+        "unblocked-app.test.mysteriumvpn.com"
+      ],
+      "api.test.mysteriumvpn.com": [
+        "unblocked-api.test.mysteriumvpn.com"
       ]
     }
   },
@@ -23,7 +29,7 @@
     {
       "key_id": "discovery-2026-11",
       "alg": "Ed25519",
-      "sig": "oQaCzGoI7Or+5f1RIZYYlocZvnvWmKO3+EDrtgkx2/kF63iLFFkrM92N7EypevF5Ig/uZvS2JjHAF7Z1RrOLAw=="
+      "sig": "mdspqtlszRyVD5yXtmaPJgYwzu6d9XaQ2YZXC/tk2y9BNYSuL/JQ1059KxGGaVd+aAWnekvQK5dqeQIW2289Bg=="
     }
   ]
 }
